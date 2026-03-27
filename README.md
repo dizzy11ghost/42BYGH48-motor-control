@@ -13,9 +13,9 @@ Development of a python code to control both velocity and position of a 42BYGH48
 
 ### Materiales necesarios.
 Para las etapas de desarrollo, implementación y prototipado de este sistema, se tienen pensados los siguientes materiales:
--Motor 42BYGH48
--Driver DRV8825
--Fuente de voltaje 12V, 2-3A
--ESP32 
--2 Capacitores de 100 micro Faradios
--Protoboard y cableado
+- Motor 42BYGH48
+- Driver DRV8825
+- Fuente de voltaje 12V, 2-3A
+- ESP32 
+- 2 Capacitores de 100 micro Faradios
+- Protoboard y cableado
