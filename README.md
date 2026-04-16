@@ -19,3 +19,7 @@ Para las etapas de desarrollo, implementación y prototipado de este sistema, se
 - ESP32 
 - 2 Capacitores de 100 micro Faradios
 - Protoboard y cableado
+
+notes to self:
+bobina 1 del motor - verde rojo
+bobina 2 del motor - azul amarillo
